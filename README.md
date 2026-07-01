@@ -4,10 +4,6 @@ Does weather actually affect train delays on the Belgian rail network? This proj
 
 **Status: work in progress.** Currently at the data validation stage, working with a single day of data to build and test the pipeline before scaling up. Power BI dashboard not built yet.
 
-## Why this project
-
-I'm a computational biologist / population geneticist transitioning into data analytics, building SQL and BI skills outside my original domain (biology) with a dataset that's directly relevant to the Belgian job market.
-
 ## Data sources
 
 - **Train punctuality**: [Infrabel Open Data — Raw punctuality data (D-1)](https://opendata.infrabel.be/explore/dataset/ruwe-gegevens-van-stiptheid-d-1/) — per-stop arrival/departure times and delays for domestic trains
